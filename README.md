@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Khushi1638/frontend-mentor-blog-challenge.git)
+- [Live Site URL](https://khushi1638.github.io/frontend-mentor-blog-challenge/)
 
 ## My Process
 
@@ -80,7 +80,7 @@ In future projects, I want to focus on:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Linkedin - [Khushi](https://www.linkedin.com/in/khushinagaliya)
+- Twitter - [@learnwithkhushi](https://x.com/learnwithkhushi)
 
 
